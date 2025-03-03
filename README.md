@@ -12,7 +12,7 @@ Feel free to reach out if you're interested in collaborating or discussing poten
 
 Email - tanwar.ro@northeastern.edu
 
-Linkedin - https://www.linkedin.com/in/rohan-tanwar-3103
+Linkedin - [https://www.linkedin.com/in/rohan-tanwar-3103](https://www.linkedin.com/in/tanwar-rohan/)
 
 ## Languages and Technologies
 
